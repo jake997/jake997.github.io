@@ -1,0 +1,7 @@
+<div style="margin-bottom: 12px;">
+  <strong>{{ activity.year }} – {{ activity.title }}</strong><br>
+  {{ activity.location }}  
+  {% if activity.type %}
+    ({{ activity.type }})
+  {% endif %}
+</div>

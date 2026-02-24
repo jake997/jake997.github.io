@@ -1,0 +1,19 @@
+title: "Yacoub Hendi"
+description: "PhD student in Mathematics at Uppsala University"
+url: "https://jake997.github.io"
+repository: jake997/jake997.github.io
+baseurl: ""
+
+markdown: kramdown
+
+theme: minima
+
+header_pages:
+  - index.md
+
+#author:
+#  name: "Yacoub Hendi"
+#  email: "yacoub.hendi@math.uu.se"
+
+sass:
+  style: compressed

@@ -1,0 +1,24 @@
+- year: 2025
+  title: "Summer School: Invitation to Complex Geometry"
+  location: "Rényi Institute, Budapest"
+ # type: "Summer School"
+
+- year: 2025
+  title: "Summer School on Singular Kählerian Metrics and Hermitian Geometry"
+  location: "Rényi Institute, Budapest"
+ # type: "Summer School"
+
+- year: 2025
+  title: "GeUmetric Deep Learning Workshop"
+  location: "Umeå University, Umeå"
+ # type: "Workshop"
+
+- year: 2025
+  title: "London Geometric Machine Learning Workshop (LOGML)"
+  location: "Imperial College London, London"
+ # type: "Workshop"
+
+- year: 2024
+  title: "GeUmetric Deep Learning Workshop"
+  location: "Umeå University, Umeå"
+ # type: "Workshop"

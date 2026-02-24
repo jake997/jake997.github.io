@@ -1,0 +1,7 @@
+<div style="margin-bottom: 12px;">
+  <strong>{{ talk.year }} – {{ talk.title }}</strong><br>
+  {{ talk.event }}, {{ talk.location }}<br>
+  {% if talk.type %}
+    <em>{{ talk.type }}</em>
+  {% endif %}
+</div>

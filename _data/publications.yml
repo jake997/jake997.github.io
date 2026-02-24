@@ -1,0 +1,22 @@
+
+- title: "Licentiate thesis: Geometry and Learning under Group Symmetries"
+  authors: "Y. Hendi"
+  year: 2026
+  link: ""
+  pdf: "/assets/pdfs/licentiate_thesis.pdf"
+
+- title: "Learning group invariant Calabi–Yau metrics by fundamental domain projections"
+  authors: "Y. Hendi, M. Larfors, M. Walden"
+  journal: "Machine Learning: Science and Technology"
+  volume: "6(1)"
+  pages: "015050"
+  year: 2025
+  link: "https://doi.org/10.1088/2632-2153/adb4bb"
+  pdf: ""
+
+- title: "Parameterized Verification under TSO with Data Types"
+  authors: "P.A. Abdulla et al."
+  booktitle: "TACAS 2023, LNCS 13993, Springer"
+  year: 2023
+  link: "https://doi.org/10.1007/978-3-031-30823-9_30"
+  pdf: ""
