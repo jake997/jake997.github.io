@@ -4,4 +4,10 @@
   {% if talk.type %}
     <em>{{ talk.type }}</em>
   {% endif %}
+
+  
+  {% if talk.slides %}
+    <a href="{{ talk.slides }}" download>📑 Slides</a>
+  {% endif %}
+
 </div>

@@ -10,11 +10,11 @@
     <em>{{ pub.booktitle }}</em> ({{ pub.year }})
   {% endif %}
 
-  {% if pub.link != "" %}
+  {% if pub.link %}
     <a href="{{ pub.link }}" target="_blank">Link</a>
   {% endif %}
 
-  {% if pub.pdf != "" %}
+  {% if pub.pdf %}
     <a href="{{ pub.pdf }}" target="_blank">PDF</a>
   {% endif %}
 </div>

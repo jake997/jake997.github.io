@@ -1,9 +1,16 @@
 
+- title: "The Geometry of Polynomial Group Convolutional Neural Networks"
+  authors: "Y. Hendi, D. Persson, M. Larfors"
+  year: 2026
+  link: "https://arxiv.org/abs/2603.29566"
+  # pdf: ""
+
+
 - title: "Licentiate thesis: Geometry and Learning under Group Symmetries"
   authors: "Y. Hendi"
   year: 2026
   link: "https://uu.diva-portal.org/smash/record.jsf?pid=diva2:2042576"
-  pdf: ""
+  # pdf: ""
 
 - title: "Learning group invariant Calabi–Yau metrics by fundamental domain projections"
   authors: "Y. Hendi, M. Larfors, M. Walden"
@@ -12,11 +19,11 @@
   pages: "015050"
   year: 2025
   link: "https://doi.org/10.1088/2632-2153/adb4bb"
-  pdf: ""
+  # pdf: ""
 
 - title: "Parameterized Verification under TSO with Data Types"
   authors: "P.A. Abdulla et al."
   booktitle: "TACAS 2023, LNCS 13993, Springer"
   year: 2023
   link: "https://doi.org/10.1007/978-3-031-30823-9_30"
-  pdf: ""
+  # pdf: ""
